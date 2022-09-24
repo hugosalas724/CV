@@ -1,0 +1,116 @@
+*{
+    margin:0px;
+    padding:0px
+}
+
+div#general{
+    margin: auto;
+    width: auto;
+    height:800px ;
+    margin-top: 0px;
+    background-color: white;
+}
+
+
+
+div#Nombre{
+    width:700px ;
+    height:100px ;
+    float: left;
+    background-color: #101010;   
+}
+
+div#Perfil{
+    width:700px ;
+    height:180px ;
+    margin-top: 0px;
+    background-color: teal; 
+}
+
+div#Infoperfil{
+    width:700px ;
+    height:180px ;
+    margin-top: 0px;
+    background-color: white; 
+}
+
+div#Experiencia{
+    width:700px ;
+    height:80px ;
+    margin-top: 0px;
+    background-color: teal; 
+}
+
+div#Infoexperiencia{
+    width:700px ;
+    height:430px ;
+    margin-top: 0px;
+    background-color: white; 
+}
+
+div#Carrera{
+    width:649px ;
+    height:100px ;
+    float: right;
+    background-color: teal;   
+}
+
+div#Contacto{
+    float: right;
+    width:649px ;
+    height:80px ;
+    margin-top: 0px;
+    background-color: #101010; 
+}
+
+div#Infocontacto{
+    float: right;
+    width: 649px;
+    height:180px ;
+    background-color: gray; 
+}
+
+div#Aptitudes{
+    float: right;
+    width:649px ;
+    height:80px ;
+    margin-top: 0px;
+    background-color: #101010; 
+}
+
+div#Infoaptitudes{
+    float: right;
+    width: 649px;
+    height:430px ;
+    background-color: gray; 
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+   text-decoration: none;
+   color: teal;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+    font-family: 'Inter Tight', sans-serif;
+}
+
+div#Imagen{
+    top: 30px;
+    left: 590px;
+}
